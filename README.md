@@ -9,7 +9,7 @@ I will be happy if my code can help you to do something.
 
 ## Issues
 
-Low accuracy for PCA data, I will fix it when I have square time :)  
+Low accuracy for PCA data, I will fix it when I have spare time :)  
 
 ## Dataset
 [Statlog (German Credit Data) Data Set Numeric Version](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
